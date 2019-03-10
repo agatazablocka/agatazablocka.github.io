@@ -1,0 +1,17 @@
+body{
+     background-color: grey;
+    
+    }
+img{
+    width: 900px ;
+    margin-left: 250px;
+}
+#tourcolor{
+    color: orange;
+    font-size: 50px;
+    margin-left: 150px; 
+}
+#title {
+    font-size: 100px;
+    text-align: center;
+}
